@@ -1,2 +1,2 @@
 # datasciencecoursera
-coursera project repo
+Coursera project repo
